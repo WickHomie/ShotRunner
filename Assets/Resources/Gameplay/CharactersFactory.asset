@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 614bc00c8aaa4d54b89e05b5cf243372, type: 3}
+  m_Name: CharactersFactory
+  m_EditorClassIdentifier: 
+  basicMale: {fileID: -6879117592898377387, guid: 505285107b2bbe54bb4b5dd09f325dbd, type: 3}
+  female: {fileID: -5073051420719546015, guid: fa4fab74d39e81741bb85cba68ff5b2f, type: 3}
+  hoodie: {fileID: 5701702127705443189, guid: c629ddb8b6c5e0e4aa73bc6d0ac9cbd1, type: 3}
+  cowboy: {fileID: -2772376232103940911, guid: 0bb3465f4ad1eca46919ee60b95d1b60, type: 3}
+  male: {fileID: -5674182110804466657, guid: 93dd98d5e41831e408d67d6f23693f11, type: 3}
+  alien: {fileID: 151422612164411247, guid: 812b00dfb43a68a4593782dd002eedfb, type: 3}
+  bear: {fileID: 383258737178547073, guid: c23f9e95a70ed1d4c9ae659f0789379b, type: 3}
+  chemicalman: {fileID: -889850978629764080, guid: 7237208465ebe2d4f8276e4548ea45e8, type: 3}
+  chiken: {fileID: 8296668725268344230, guid: 84d7c7509f26f6b45a9b10a565c76544, type: 3}
+  hero: {fileID: -8689397366734072897, guid: 3c29c45a0fcf9e44897e7f3adf55e9a1, type: 3}
+  jesteran: {fileID: 4831349415000914088, guid: a6072957ad3bae744a4274243829a44b, type: 3}
+  knight: {fileID: 943693864259568937, guid: 56ec4f4f10615154586c508b8a92af46, type: 3}
+  ninja: {fileID: 6615237532891191707, guid: aae793c489a6a2c47a6e3b51e065da83, type: 3}
+  salaryman: {fileID: 4487186109930768168, guid: 082b19b44d6b0f04d800ccb998d04c3d, type: 3}
+  samurai: {fileID: 2403846534112132038, guid: 0d77de34a1c587c48bc1033b6410d477, type: 3}
+  sniper: {fileID: -1917702795901403845, guid: 061636548d04c664db9da690e98493da, type: 3}
+  soldier: {fileID: -8793061661292491042, guid: ab7306af621c8e6448e993a17558d7e5, type: 3}
+  spaceman: {fileID: 3395678077649809757, guid: 2d6b1a3ebf809bc46b7509460f0527b7, type: 3}
+  terrorist: {fileID: 3587421260509765583, guid: 84cd3ed17731cae49aa6f8c6e812663b, type: 3}
+  rambo: {fileID: 1171666816172686899, guid: 4fcd6510b6a42984ca3215ce2dc6a48b, type: 3}

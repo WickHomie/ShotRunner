@@ -1,0 +1,20 @@
+public enum BoostSkins
+{
+    AssaultRifle,
+    Bazooka,
+    ChemicalGun,
+    CrossBow,
+    ElectricGun,
+    FlameThrower,
+    GravityGun,
+    HMG,
+    HuntingRifle,
+    IceGun,
+    MiniGun,
+    Pistol,
+    RailGun,
+    SawGun,
+    Shotgun,
+    SMG,
+    SniperRifle
+}

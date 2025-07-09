@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e533b4191257d8f4b9ea6860af3470ef, type: 3}
+  m_Name: IceGun
+  m_EditorClassIdentifier: 
+  <Model>k__BackingField: {fileID: 1545150094688156146, guid: c590be9964cc7a54d9b98d9e0d6095a9, type: 3}
+  <Image>k__BackingField: {fileID: 21300000, guid: 05e12b4ecf5e4e14e951d91a07f1605f, type: 3}
+  <Price>k__BackingField: 50000
+  <SkinType>k__BackingField: 9
+  <WeaponAnimator>k__BackingField: {fileID: 9100000, guid: 044c2bea928b2e74ebc9768e90a1cee8, type: 2}

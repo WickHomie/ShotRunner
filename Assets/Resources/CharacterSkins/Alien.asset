@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 39bb91ba32d3421408b0d8ff9507eba1, type: 3}
+  m_Name: Alien
+  m_EditorClassIdentifier: 
+  <Model>k__BackingField: {fileID: 7369448170708576210, guid: a99a0680cff3a5d44bc8688ade522af1, type: 3}
+  <Image>k__BackingField: {fileID: 21300000, guid: f3517ee10d09ad14f877c4e71647bcfc, type: 3}
+  <Price>k__BackingField: 25000
+  <SkinType>k__BackingField: 5

@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 39bb91ba32d3421408b0d8ff9507eba1, type: 3}
+  m_Name: Soldier
+  m_EditorClassIdentifier: 
+  <Model>k__BackingField: {fileID: 1895128451538434624, guid: ab7306af621c8e6448e993a17558d7e5, type: 3}
+  <Image>k__BackingField: {fileID: 21300000, guid: 3b826d31de9341242a882cb5b1c42700, type: 3}
+  <Price>k__BackingField: 80000
+  <SkinType>k__BackingField: 16

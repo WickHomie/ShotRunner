@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9552434c1ad821947a08430a3b4b2c61, type: 3}
+  m_Name: WeaponsFactory
+  m_EditorClassIdentifier: 
+  pistol: {fileID: 2568575883780504143, guid: be8809df71425624c952ae618ea35cf1, type: 3}
+  HMG: {fileID: -5280091807732769329, guid: cf6dca1123cb5244ab93e8030dd9df8f, type: 3}
+  SMG: {fileID: -4351276893719159897, guid: de604573eb6693b46800aeaed766cd4d, type: 3}
+  shotgun: {fileID: -7123487208941218784, guid: 7819d2d8567df1947950671c41249c3b, type: 3}
+  assaultRifle: {fileID: -6384971887075465134, guid: 6dafc63e002618f46961bd7034048e6c, type: 3}
+  sniperRifle: {fileID: -8239724738601230698, guid: 0d74b8d547e84944c8f68b28eaef6c56, type: 3}
+  huntingRifle: {fileID: -6151311255056843427, guid: bb78648062f66c0489c2f9c247d45117, type: 3}
+  chemicalGun: {fileID: 1607876130675021450, guid: f24ac88b201e3a347b7c06b9fb813bd0, type: 3}
+  electricGun: {fileID: 8922457923316354998, guid: 1bed02d9d53731e47ad9621225f834c4, type: 3}
+  iceGun: {fileID: -205162505334771662, guid: c590be9964cc7a54d9b98d9e0d6095a9, type: 3}
+  railGun: {fileID: 3775332469555087927, guid: 1e353df84f9e15b44bf96c9b2d303e76, type: 3}
+  crossBow: {fileID: 2535123601339358375, guid: 45cef586c1e6ee842b4d4a0c08106e2f, type: 3}
+  sawGun: {fileID: 4846065923264625097, guid: 3a57f1adac2406f4ba1128ee948b182a, type: 3}
+  gravityGun: {fileID: 4762629741686843821, guid: cf9fcb6292e58724dba211a47d4fcf4b, type: 3}
+  flameThrower: {fileID: -2055993755794085904, guid: c3ab5c0ea003f70448ee32285e8075cf, type: 3}
+  bazooka: {fileID: -8256094012082894791, guid: f922d6be06486db489640b3c2039183a, type: 3}
+  miniGun: {fileID: 3740506073374391125, guid: 7a848cce6e42cc94bb39117f23738c44, type: 3}

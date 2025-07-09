@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 39bb91ba32d3421408b0d8ff9507eba1, type: 3}
+  m_Name: Rambo
+  m_EditorClassIdentifier: 
+  <Model>k__BackingField: {fileID: 776543977523952592, guid: 4fcd6510b6a42984ca3215ce2dc6a48b, type: 3}
+  <Image>k__BackingField: {fileID: 21300000, guid: 91c81c80e755eff418c3595141d97d8d, type: 3}
+  <Price>k__BackingField: 100000
+  <SkinType>k__BackingField: 19

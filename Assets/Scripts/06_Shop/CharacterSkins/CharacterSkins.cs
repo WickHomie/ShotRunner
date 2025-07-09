@@ -1,0 +1,23 @@
+public enum CharacterSkins
+{
+    BasicMale,
+    Female,
+    Hoodie,
+    Cowboy,
+    Male,
+    Alien,
+    Bear,
+    Chemicalman,
+    Chiken,
+    Hero,
+    Jesteran,
+    Knight,
+    Ninja,
+    Salaryman,
+    Samurai,
+    Sniper,
+    Soldier,
+    Spaceman,
+    Terrorist,
+    Rambo
+}
