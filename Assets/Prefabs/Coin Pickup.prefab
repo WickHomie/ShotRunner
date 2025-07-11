@@ -157,7 +157,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   rotationSpeed: 100
-  coinAmound: 1
+  coinAmound: 10
   coin: {fileID: 468533709662470820}
   mesh: {fileID: 6416778043471836302}
 --- !u!82 &468533709662470820

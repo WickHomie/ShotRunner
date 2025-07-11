@@ -243,7 +243,7 @@ MonoBehaviour:
   deathBulletClip: {fileID: 8300000, guid: 20092649e1e853a4cbf96b754efab0fb, type: 3}
   deathCrushClip: {fileID: 8300000, guid: a91b6eb6aee93de4fa0b41a96fd36c96, type: 3}
   damage: 45
-  coinAmound: 30
+  coinAmound: 60
   maxEnemyHealth: 90
   currentEnemyHealth: 0
 --- !u!82 &6871934602586730439

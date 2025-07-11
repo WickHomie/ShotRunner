@@ -19,7 +19,7 @@ public class SoundVolumeSettings : MonoBehaviour
     public void ChangeVolumeMusic(float volume)
     {
         musicVolume = volume;
-        mixer.audioMixer.SetFloat("MusicVolume", Mathf.Lerp(-80, 0, volume));
+        mixer.audioMixer.SetFloat("MusicVolume", Mathf.Lerp(-50, 0, volume));
         PlayerPrefs.SetFloat("MusicVolume", musicVolume);
         PlayerPrefs.Save();
     }
@@ -27,7 +27,7 @@ public class SoundVolumeSettings : MonoBehaviour
     public void ChangeVolumeSFX(float volume)
     {
         sfxVolume = volume;
-        mixer.audioMixer.SetFloat("SFXVolume", Mathf.Lerp(-80, 0, volume));
+        mixer.audioMixer.SetFloat("SFXVolume", Mathf.Lerp(-50, 0, volume));
         PlayerPrefs.SetFloat("SFXVolume", sfxVolume);
         PlayerPrefs.Save();
     }
@@ -36,8 +36,8 @@ public class SoundVolumeSettings : MonoBehaviour
     {
         musicVolume = PlayerPrefs.GetFloat("MusicVolume", 1f);
         sfxVolume = PlayerPrefs.GetFloat("SFXVolume", 1f);
-        mixer.audioMixer.SetFloat("MusicVolume", Mathf.Lerp(-80, 0, musicVolume));
-        mixer.audioMixer.SetFloat("SFXVolume", Mathf.Lerp(-80, 0, sfxVolume));
+        mixer.audioMixer.SetFloat("MusicVolume", Mathf.Lerp(-50, 0, musicVolume));
+        mixer.audioMixer.SetFloat("SFXVolume", Mathf.Lerp(-50, 0, sfxVolume));
 
         if (musicSlider != null)
             musicSlider.value = musicVolume;

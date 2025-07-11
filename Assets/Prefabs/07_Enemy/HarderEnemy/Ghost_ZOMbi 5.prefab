@@ -456,7 +456,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: cd60262bed57c3d4b9c3f8e8b332d257, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  deathBulletParticle: {fileID: 2433282508523890284, guid: 3ef3ae421f71c5c4e97fe12dc2fc6312, type: 3}
   deathCrashParticle: {fileID: 2433282508523890284, guid: 3ef3ae421f71c5c4e97fe12dc2fc6312, type: 3}
   audioSource: {fileID: -1863467700072607710}
   sfxMixerGroup: {fileID: 9119505249327707227, guid: 1924863568f59c6429449096071842b5, type: 2}
@@ -464,7 +463,7 @@ MonoBehaviour:
   deathBulletClip: {fileID: 8300000, guid: bbc5fbc60a468b24e89029a343260e92, type: 3}
   deathCrushClip: {fileID: 8300000, guid: 249d717945f023c4794dba0f26408fb4, type: 3}
   damage: 70
-  coinAmound: 70
+  coinAmound: 120
   maxEnemyHealth: 250
   currentEnemyHealth: 0
 --- !u!82 &-1863467700072607710
